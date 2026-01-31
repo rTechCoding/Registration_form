@@ -373,14 +373,12 @@ ul {
 	border: 3px solid #fff;
 	z-index: 1;
   }
-  
   ul li a .icon {
 	position: relative;
 	color: #262626;
 	transition: .5s;
 	z-index: 3;
   }
-  
   ul li a:hover .icon {
 	color: #fff;
 	transform: rotateY(360deg);
