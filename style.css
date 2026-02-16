@@ -315,7 +315,6 @@ footer a {
 .textbox:focus{
     color: #161617;
     border: 1px solid #3742fa;
-   
 }
 .textbox:focus ~ .form-work,
 .textbox:not(:placeholder-shown).textbox:not(:focus)~.form-work
